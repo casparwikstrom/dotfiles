@@ -12,5 +12,6 @@
     "Package Control",
     "SCSS",
     "ERB Snippets"
-  ]
+  ],
+  "bootstrapped": true,
 }
